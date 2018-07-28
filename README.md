@@ -79,6 +79,7 @@ use `--help` to get complete list of options including model config, defining va
 --run r12 \
 --train-image-dir sample_data/training/ \
 --label-dir sample_data/labels/ \
+--width 768 --height 1024
 ```
 
 ### inference
